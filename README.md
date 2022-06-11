@@ -144,6 +144,6 @@ time_taken=time.time() - start_time
 print("\n\n{0} seconds".format(time_taken))
 ```
 ## Output:
-![11](https://user-images.githubusercontent.com/75235090/172778326-4a1ae796-c268-4874-8cd2-622c424fa6f0.jpg)
+![sudoku](https://user-images.githubusercontent.com/75235601/173197037-8dcca72a-5082-44d0-93b8-95ee9046cd53.jpg)
 ## Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
